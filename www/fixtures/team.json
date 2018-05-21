@@ -1,0 +1,134 @@
+[
+  {
+    "model": "www.person",
+    "pk": 1,
+    "fields": {
+      "name": "Arthur Bright",
+      "title": "Super Genius",
+      "email": "arthur@dir.com",
+      "image":
+        "https://pbs.twimg.com/profile_images/912911188165632000/PgrGdtJd_400x400.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 2,
+    "fields": {
+      "name": "Mufere Peter",
+      "title": "Kifeesi",
+      "email": "mufere@dir.com",
+      "image":
+        "https://dailygeekette.files.wordpress.com/2014/02/ben-mckenzie.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 3,
+    "fields": {
+      "name": "Donald Truck",
+      "title": "Chief Jerk",
+      "email": "mufere@dir.com",
+      "image":
+        "https://pbs.twimg.com/profile_images/912911188165632000/PgrGdtJd_400x400.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 4,
+    "fields": {
+      "name": "Yakuza Amoto",
+      "title": "Sicario",
+      "email": "mufere@dir.com",
+      "image":
+        "https://dailygeekette.files.wordpress.com/2014/02/ben-mckenzie.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 5,
+    "fields": {
+      "name": "Fish Moonie",
+      "title": "Chief Pole",
+      "email": "mufere@dir.com",
+      "image":
+        "https://pbs.twimg.com/profile_images/912911188165632000/PgrGdtJd_400x400.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 6,
+    "fields": {
+      "name": "Rupert Beans",
+      "title": "Mufeesi",
+      "email": "mufere@dir.com",
+      "image":
+        "https://dailygeekette.files.wordpress.com/2014/02/ben-mckenzie.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 7,
+    "fields": {
+      "name": "Kitwe Ron",
+      "title": "Keeper",
+      "email": "mufere@dir.com",
+      "image":
+        "https://pbs.twimg.com/profile_images/912911188165632000/PgrGdtJd_400x400.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 8,
+    "fields": {
+      "name": "Buusu Tron",
+      "title": "Player",
+      "email": "mufere@dir.com",
+      "image":
+        "https://dailygeekette.files.wordpress.com/2014/02/ben-mckenzie.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 9,
+    "fields": {
+      "name": "Busolo Duncam",
+      "title": "Operations",
+      "email": "mufere@dir.com",
+      "image":
+        "https://pbs.twimg.com/profile_images/912911188165632000/PgrGdtJd_400x400.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 10,
+    "fields": {
+      "name": "Dunkirk Rop",
+      "title": "Askari",
+      "email": "mufere@dir.com",
+      "image":
+        "https://dailygeekette.files.wordpress.com/2014/02/ben-mckenzie.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 11,
+    "fields": {
+      "name": "Donatello Mert",
+      "title": "Fisi",
+      "email": "mufere@dir.com",
+      "image":
+        "https://pbs.twimg.com/profile_images/912911188165632000/PgrGdtJd_400x400.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 12,
+    "fields": {
+      "name": "Donm Bom",
+      "title": "Chief Fisi",
+      "email": "mufere@dir.com",
+      "image":
+        "https://dailygeekette.files.wordpress.com/2014/02/ben-mckenzie.jpg"
+    }
+  }
+]
